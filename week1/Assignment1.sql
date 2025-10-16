@@ -40,7 +40,6 @@ INSERT INTO Customers VALUES(102,'Paavan','Suresh','pavaan102@gmail.com','998899
 INSERT INTO Orders VALUES(10,101,'12-oct-2025',2000);
 INSERT INTO Orders VALUES(20,102,'10-oct-2025',4000);
 
-
 INSERT INTO Order_Details VALUES(501,10,1,50);
 INSERT INTO Order_Details VALUES(502,20,2,30);
 
